@@ -7,19 +7,6 @@ import { Calendar, MapPin } from "lucide-react";
 
 const experiences = [
   {
-    role: "Social Media Strategist",
-    company: "Duffl digital private limited",
-    location: "Chennai",
-    date: "April 2025 - Present",
-    highlights: [
-      "Devised scalable, data-driven organic and paid social media campaigns across Meta, LinkedIn, and X, increasing overall brand reach by 45% and engagement by 78% in the first six months.",
-      "Steered the strategic direction of multi-platform ad campaigns, optimizing paid social and search spend to achieve a consistent 4.2x ROAS while improving CPL by 35%.",
-      "Developed and executed high-intent B2B LinkedIn strategies, architecting personalized outreach funnels that generated over 120 qualified leads in Q2 2025.",
-      "Implemented automated email sequences using Brevo and Klaviyo, improving nurture campaign performance through dynamic segmentation and A/B testing.",
-      "Managed and enhanced WordPress and Wix-based client websites, overseeing migrations, performance audits, and ongoing content and technical SEO updates."
-    ]
-  },
-  {
     role: "Digital Marketing Executive",
     company: "White Coat Consulting Services",
     location: "Chennai",
